@@ -1,0 +1,13 @@
+
+   
+        let number = Number(prompt("Enter a number:"));
+
+    
+        let square = number * number;
+        let cube = number * number * number;
+
+
+        document.write("Number: " + number + "");
+        document.write("Square: " + square + "");
+        document.write("Cube: " + cube + "");
+ 
